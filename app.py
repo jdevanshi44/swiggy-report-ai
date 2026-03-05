@@ -10,7 +10,7 @@ from langchain_core.output_parsers import StrOutputParser
 
 # --- Page Config ---
 st.set_page_config(page_title="Swiggy AI Assistant", layout="wide")
-st.title("🤖 Swiggy Annual Report Assistant (Free Version)")
+st.title("🤖 Swiggy AI Assistant")
 
 # --- Sidebar ---
 with st.sidebar:
